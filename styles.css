@@ -13,6 +13,7 @@ body {
 
 h1 {
     font-size: 48pt; /* Increase the font size of the main heading */
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; /* Black text outline */
 }
 
 #bingoBoard {
