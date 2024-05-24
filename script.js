@@ -11,6 +11,9 @@ const predefinedItems = [
 
 document.addEventListener('DOMContentLoaded', function() {
     generateBingoBoard(predefinedItems);
+    document.getElementById('refreshButton').addEventListener('click', () => generateBingoBoard(predefinedItems));
+    document.getElementById('printButton').addEventListener('click', () => window.print());
+
 });
 
 function generateBingoBoard(items) {
