@@ -8,7 +8,7 @@ body {
   background-size: cover;
     background-position: center;
     color: #fff; /* Optional: to ensure text is readable on the background */
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; /* Black text outline */
+
 }
 
 h1 {
