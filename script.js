@@ -18,7 +18,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function generateBingoBoard(items) {
     const board = document.getElementById('bingoBoard');
-    board.innerHTML = '';
+    // Clear board but keep headers
+    board.innerHTML = '<div class="bingo-header">L</div><div class="bingo-header">O</div><div class="bingo-header">T</div><div class="bingo-header">L</div><div class="bingo-header">B</div>';
 
     // Shuffle items and select the first 25
     const shuffledItems = shuffle(items).slice(0, 25);
@@ -28,10 +29,17 @@ function generateBingoBoard(items) {
         const cell = document.createElement('div');
         cell.classList.add('bingo-cell');
         cell.textContent = item;
+        cell.addEventListener('click', () => toggleCell(cell));
         board.appendChild(cell);
     });
 }
-
+function toggleCell(cell) {
+    if (cell.classList.contains('marked')) {
+        cell.classList.remove('marked');
+    } else {
+        cell.classList.add('marked');
+    }
+}
 function shuffle(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
