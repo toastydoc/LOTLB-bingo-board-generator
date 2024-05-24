@@ -17,6 +17,19 @@ form {
     display: grid;
     grid-template-columns: repeat(5, 100px);
     gap: 10px;
+    margin-top: 20px;
+}
+
+.bingo-header {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 24px;
+    color: #000; /* Text color for headers */
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
 }
 
 .bingo-cell {
@@ -29,7 +42,21 @@ form {
     text-align: center;
     background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
     color: #000; /* Text color */
+    cursor: pointer;
+    position: relative;
 }
+
+.bingo-cell.marked {
+    background-color: rgba(255, 0, 0, 0.8); /* Red background for marked cells */
+}
+
+.bingo-cell.marked::after {
+    content: 'X';
+    font-size: 48px;
+    color: red;
+    position: absolute;
+}
+
 .buttons {
     margin-top: 20px;
 }
