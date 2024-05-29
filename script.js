@@ -5,7 +5,9 @@ const predefinedItems = [
 "I LOVE Peach Momoko Meme", "T-Vo talks about selling his collection", "Tivo's fingerless gloves",
 "Dog snoring in the background", "Dave Stevens mention", "Bingo-Ling-F*%(er", "YOUR MUTED", 
 "Blond in a Red Dress", "JB wearing a hat", "Someone says Homage wrong", "SHOUTOUT", "The term RAWDOG", 
-"Some tips $5", "Not so seemless transition", "FREE SPOT", "T-Vo has to login to Covrprice", "Crew stops too look at a horror comic on Shaker list", "Item 25", "Item 26", "Item 27", "Item 28", 
+"Someone tips $5", "Not so seemless transition", "FREE SPOT", "T-Vo has to login to Covrprice", 
+"Crew stops to look at a horror cover on Shaker list", "Dollar Bin comic makes the list", 
+"Movie Rumor spikes a book", "Item 27", "Item 28", 
 "Item 29", "Item 30", "Item 31", "Item 32", "Item 33", "Item 34", "Item 35"   
 ];
 
