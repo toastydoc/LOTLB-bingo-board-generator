@@ -7,7 +7,7 @@ const predefinedItems = [
 "Blond in a Red Dress", "JB wearing a hat", "Someone says Homage wrong", "SHOUTOUT", "The term RAWDOG", 
 "Someone tips $5", "Not so seemless transition", "FREE SPOT", "T-Vo has to login to Covrprice", 
 "Crew stops to look at a horror cover on Shaker list", "Dollar Bin comic makes the list", 
-"Movie Rumor spikes a book", "Item 27", "Item 28", 
+"Movie Rumor spikes a book", "SOTI history lesson", "Coffee with Scratch Bastard", 
 "Item 29", "Item 30", "Item 31", "Item 32", "Item 33", "Item 34", "Item 35"   
 ];
 
