@@ -2,10 +2,10 @@
 const predefinedItems = [
 "Show Starts Late", "Things T-Vo watched", "9.8 Karate Chop Meme", "Laura Come to Me Meme", 
 "Say the Word freestyle", "Randal Park freestyle", "DAAAAMN", "Fine Folks at Covrprice...", 
-"I LOVE Peach Momoko Meme", "T-Vo talks about selling his collection", "Tivo's fingerless gloves",
+"I LOVE Peach Momoko Meme", "Crew shares a T-Vo Story", "Blessings and salutations",
 "Dog snoring in the background", "Dave Stevens mention", "Bingo-Ling-F*%(er", "YOUR MUTED", 
 "Blond in a Red Dress", "JB wearing a hat", "Someone says Homage wrong", "SHOUTOUT", "The term RAWDOG", 
-"Someone tips $5", "Not so seemless transition", "FREE SPOT", "T-Vo has to login to Covrprice", 
+"Someone tips $5", "Not so seemless transition", "FREE SPOT", "Streamer has to re-log into Covrprice", 
 "Crew stops to look at a horror cover on Shaker list", "Dollar Bin comic makes the list", 
 "Movie Rumor spikes a book", "SOTI history lesson", "Coffee with Scratch Bastard", 
 "Free Spot", "Free Spot", "Free Spot", "Free Spot", "Free Spot", "Free Spot", "Free Spot"   
