@@ -5,7 +5,7 @@ const predefinedItems = [
 "I LOVE Peach Momoko Meme", "Crew shares a T-Vo Story", "Blessings and salutations",
 "Dog snoring in the background", "Dave Stevens mention", "Bingo-Ling-F*%(er", "YOUR MUTED", 
 "Blond in a Red Dress", "JB wearing a hat", "Someone says Homage wrong", "SHOUTOUT", "The term RAWDOG", 
-"Someone tips $5", "Not so seemless transition", "FREE SPOT", "Streamer has to re-log into Covrprice", 
+"Someone tips $5", "Not so seemless transition", "Someone tips $2", "Streamer has to re-log into Covrprice", 
 "Crew stops to look at a horror cover on Shaker list", "Dollar Bin comic makes the list", 
 "Movie Rumor spikes a book", "SOTI history lesson", "Coffee with Scratch Bastard", 
 "Free Spot", "Free Spot", "Free Spot", "Free Spot", "Free Spot", "Free Spot", "Free Spot"   
