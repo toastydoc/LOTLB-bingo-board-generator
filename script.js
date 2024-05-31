@@ -3,7 +3,7 @@ const predefinedItems = [
 "Show Starts Late", "Things T-Vo watched", "9.8 Karate Chop Meme", "Laura Come to Me Meme", 
 "Say the Word freestyle", "Randal Park freestyle", "DAAAAMN", "Fine Folks at Covrprice...", 
 "I LOVE Peach Momoko Meme", "Crew shares a T-Vo Story", "Blessings and salutations",
-"Dog snoring in the background", "Dave Stevens mention", "Bingo-Ling-F*%(er", "YOUR MUTED", 
+"Dog snoring in the background", "Dave Stevens mention", "Bingo-Ling-F*%(er", "YOU'RE MUTED", 
 "Blond in a Red Dress", "JB wearing a hat", "Someone says Homage wrong", "SHOUTOUT", "The term RAWDOG", 
 "Someone tips $5", "Not so seemless transition", "Someone tips $2", "Streamer has to re-log into Covrprice", 
 "Crew stops to look at a horror cover", "Crew stops to look at a Good Girl cover", "Dollar Bin comic makes the list", 
