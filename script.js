@@ -8,7 +8,7 @@ const predefinedItems = [
 "Someone tips $5", "Not so seemless transition", "Someone tips $2", "Streamer has to re-log into Covrprice", 
 "Crew stops to look at a horror cover on Shaker list", "Dollar Bin comic makes the list", 
 "Movie Rumor spikes a book", "SOTI history lesson", "Coffee with Scratch Bastard", 
-"Free Spot", "Free Spot", "Free Spot", "Free Spot", "Free Spot", "Free Spot", "Free Spot"   
+"Video Game Book makes list", "Oh look, Spawn #1", "Oh look, Spider-Man #300", "J. Scott Cambell Variant makes the list", "Free Spot", "Free Spot", "Free Spot"   
 ];
 
 document.addEventListener('DOMContentLoaded', function() {
