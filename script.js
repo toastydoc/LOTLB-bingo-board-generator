@@ -9,7 +9,8 @@ const predefinedItems = [
 "Crew stops to look at a horror cover", "Crew stops to look at a Good Girl cover", "Dollar Bin comic makes the list", 
 "Movie Rumor spikes a book", "SOTI history lesson", "Coffee with Scratch Bastard", "Welcome to the O'fer list",
 "Video Game Book on list", "Oh look, Spawn #1", "Oh look, Spider-Man #300", "JSC Variant on list", "Artist name butchered", 
-"Free Spot", "Retailer Exclusive", "1:200 incentive", "PROOF OF LIFE", "Things Laura Said", "Taylor Swift rumor", "Gabe namedrops"   
+"Free Spot", "Retailer Exclusive", "1:200 incentive", "PROOF OF LIFE", "Things Laura Said", "Taylor Swift rumor", "Gabe namedrops",
+"Marty's Blessing", "Dogs on camera"   
 ];
 
 document.addEventListener('DOMContentLoaded', function() {
