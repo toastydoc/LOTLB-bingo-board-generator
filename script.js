@@ -10,7 +10,7 @@ const predefinedItems = [
 "Movie Rumor spikes a book", "SOTI history lesson", "Coffee with Scratch Bastard", "Welcome to the O'fer list",
 "Video Game Book on list", "Oh look, Spawn #1", "Oh look, Spider-Man #300", "JSC Variant on list", "Artist name butchered", 
 "Free Spot", "Retailer Exclusive", "1:200 incentive", "PROOF OF LIFE", "Things Laura Said", "Taylor Swift rumor", "Gabe namedrops",
-"Marty's Blessing", "Dogs on camera"   
+"Marty's Blessing", "Dogs on camera", "Marty Reminiscing"    
 ];
 
 document.addEventListener('DOMContentLoaded', function() {
