@@ -1,6 +1,6 @@
 // Predefined list of values for the Bingo board spaces
 const predefinedItems = [
-"Show Starts Late", "Things T-Vo watched", "9.8 Karate Chop Meme", "Laura Come to Me Meme", 
+"Show Starts Late", "Things T-Vo watched", "9.8 Karate Chop Meme", "Not a comic!", 
 "Say the Word freestyle", "Randal Park freestyle", "DAAAAMN", "Fine Folks at Covrprice...", 
 "I LOVE Peach Momoko Meme", "Crew shares a T-Vo Story", "Blessings and salutations",
 "Dog snoring in the background", "Dave Stevens mention", "Bingo-Ling-F*%(er", "YOU'RE MUTED", 
