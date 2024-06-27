@@ -5,7 +5,7 @@ const predefinedItems = [
 "I LOVE Peach Momoko Meme", "Crew shares a T-Vo Story", "Blessings and salutations",
 "Dog snoring in the background", "Dave Stevens mention", "Bingo-Ling-F*%(er", "YOU'RE MUTED", 
 "Blond in a Red Dress", "JB wearing a hat", "Someone says Homage wrong", "SHOUTOUT", "The term RAWDOG", 
-"Someone tips $5", "Not so seemless transition", "Someone tips $2", "Streamer has to re-log into Covrprice", 
+"Comment Correction", "Not so seemless transition", "Someone call HR", "Streamer has to re-log into Covrprice", 
 "Crew stops to look at a horror cover", "Crew stops to look at a Good Girl cover", "Dollar Bin comic makes the list", 
 "Movie Rumor spikes a book", "SOTI history lesson", "Coffee with Scratch Bastard", "Welcome to the O'fer list",
 "Video Game Book on list", "Oh look, Spawn #1", "Oh look, Spider-Man #300", "JSC Variant on list", "Artist name butchered", 
